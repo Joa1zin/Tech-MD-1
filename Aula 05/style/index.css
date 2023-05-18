@@ -1,0 +1,38 @@
+.maior {
+    width: 480px;
+    height: 480px;
+    margin: 0 auto;
+    margin-top: 5%;
+    padding-left: 70px;
+    padding-top: 70px;
+    background-color: blueviolet;
+
+}
+
+.n1 {
+    width: 42%;
+    height: 42%;
+    background-color: aqua;
+    display: inline-block;
+}
+
+.n2 {
+    width: 42%;
+    height: 42%;
+    background-color: rgb(214, 218, 20);
+    display: inline-block;
+}
+
+.n3 {
+    width: 42%;
+    height: 42%;
+    background-color: rgb(241, 6, 136);
+    display: inline-block;
+}
+
+.n4 {
+    width: 42%;
+    height: 42%;
+    background-color: rgb(6, 248, 27);
+    display: inline-block;
+}

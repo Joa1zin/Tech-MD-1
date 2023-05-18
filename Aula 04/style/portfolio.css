@@ -1,0 +1,59 @@
+body {
+    background-image: url(https://image.freepik.com/fotos-gratis/plano-de-fundo-texturizado-cinza_24972-763.jpg)
+}
+
+h1{
+    margin: 20px auto;
+    width: fit-content;
+    color: #11095f;
+    border: 5px solid #88041c;
+    border-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-size: 40px;
+}
+h2{
+    margin: 20px auto;
+    width: fit-content;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+
+ul li {
+    color: #580413;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+.objetivo {
+    width: 600px;
+    margin: 10px auto;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+}
+
+.morar {
+    width: 600px;
+    margin: 10px auto;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 5px auto;
+    width: 600px;
+    border-radius: 10px;
+}
+
+.lista {
+    width: 600px;
+    margin: 10px auto;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+}

@@ -1,0 +1,34 @@
+body{
+    background-image: url("https://img.freepik.com/fotos-gratis/fundo-de-parede-do-estudio-de-textura-de-concreto-azul-vintage-grunge-com-vinheta_1258-28375.jpg" );
+}
+header {
+    background-color: rgb(8, 2, 97);
+    width: auto;
+    padding: 10px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Konkhmer Sleokchher', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    font-family: 'Konkhmer Sleokchher', cursive;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px 10px;
+
+}
+
+.caixa {
+    color: rgb(250, 250, 250);
+    background-color: rgb(28, 41, 39);
+    width: fit-content;
+    border: 3px solid rgb(13, 2, 65);
+    font-family: 'Konkhmer Sleokchher', cursive;
+    font-size: 13px;
+    margin:  auto;
+}

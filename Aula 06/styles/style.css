@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(219, 103, 248);
+    padding: 5px;
+}
+
+header {
+    background-color: rgb(177, 12, 168);
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    border: 4px solid purple;
+    border-radius: 4px;
+}
+
+nav {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+a {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+h1 {
+    font-family: 'Kanit', sans-serif;
+    padding: 20px;
+    margin: 10px;
+}
+
+.namepage:hover {
+    transform:scale(1.1)
+}
+
+a:hover {
+    color: black;
+}
