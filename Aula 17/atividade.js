@@ -6,4 +6,4 @@ function linhaAsterisco(n){
     }
 }
 
-linhaAsterisco(5)
+linhaAsterisco(3)
